@@ -1,0 +1,13 @@
+body {
+    background-color: #3E3E3E;
+}
+.Container {
+  margin: 0 auto;
+  padding: $base-size * 2 0;
+  max-width: 800px;
+  width: 90%;
+}
+
+.Container--wide {
+  max-width: 1024px;
+}

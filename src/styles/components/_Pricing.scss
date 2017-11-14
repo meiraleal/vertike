@@ -1,0 +1,90 @@
+.Pricing {
+
+}
+
+.Pricing__plans {
+
+
+  @media (min-width: $screen-md ) {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.Pricing__plan {
+  flex: 1 1 250px;
+  margin: $base-size / 2;
+  border: 1px solid $mrbluesky;
+  border-radius: 4px;
+
+  @media (min-width: $screen-sm ) {
+    position: relative;
+  }
+
+  h3 {
+    margin: $base-size $base-size / 2;
+    text-align: center;
+  }
+
+  .PricingPlan__feature--key {
+    text-align: center;
+    line-height: 1.1;
+    margin: $base-size / 2;
+  }
+
+  p {
+    font-size: 18px;
+    margin: $base-size / 8 0 ;
+  }
+
+  .SectionHeading {
+    margin: $base-size * 1.5 0 0;
+  }
+
+  .Pricing__plan__price {
+    font-size: 24px;
+    text-align: center;
+    margin: 0;
+
+    @media (min-width: $screen-sm ) {
+      margin: $base-size * 2 0 0;
+    }
+  }
+
+  ul {
+    padding: 0 $base-size;
+    margin: $base-size $base-size;
+    text-align: center;
+    list-style: none;
+
+    @media (min-width: $screen-sm ) {
+      margin: $base-size $base-size 150px;
+    }
+  }
+
+  li {
+    font-size: 16px;
+    line-height: 1.2;
+    margin: $base-size 0;
+  }
+
+  .Button {
+    width: 100%;
+    margin: $base-size / 2 0;
+  }
+}
+
+.PricingPlan__bottom {
+  width: 100%;
+  padding: $base-size;
+
+  @media (min-width: $screen-sm ) {
+    position: absolute;
+    bottom: 0;
+  }
+}
+
+.Pricing__plans__monthly {
+  text-align: center;
+  margin-bottom: 0;
+}

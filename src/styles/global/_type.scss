@@ -1,0 +1,121 @@
+@import url('https://use.typekit.net/fid0mqv.css');
+
+html {
+  font-family: $font-family-body;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-family-heading;
+  font-weight: 700;
+  color: $mrbluesky;
+
+}
+
+h1 {
+  font-size: 40px;
+  margin: $base-size * 2 0 $base-size;
+
+  @media (min-width: $screen-sm ) {
+    font-size: 60px;
+  }
+}
+
+h2 {
+  font-size: 30px;
+  margin: $base-size * 2 0 $base-size;
+
+  @media (min-width: $screen-sm ) {
+    font-size: 40px;
+  }
+}
+
+h3 {
+  font-size: 24px;
+  margin: $base-size * 2 0 $base-size;
+}
+
+h4 {
+  font-size: 20px;
+  margin: $base-size * 2 0 $base-size;
+}
+
+h5 {
+  text-transform: uppercase;
+  margin: $base-size * 2 0 $base-size;
+  letter-spacing: 1px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: $base-size * 1.4;
+  color: $nightsky-75;
+
+  @media (min-width: $screen-xs ) {
+    font-size: 18px;
+    line-height: $base-size * 1.6;
+  }
+
+  @media (min-width: $screen-sm ) {
+    font-size: 20px;
+  }
+}
+
+p {
+  margin: $base-size / 2 0 $base-size 0;
+
+  @media (min-width: $screen-sm ) {
+    margin: $base-size 0 $base-size * 2 0;
+  }
+}
+
+p.lead {
+  font-size: 20px;
+  line-height: 28px;
+  color: $mrbluesky;
+
+  @media (min-width: $screen-sm ) {
+    font-size: 28px;
+    line-height: 36px;
+  }
+}
+
+li {
+  margin: $base-size / 2 0;
+}
+
+a {
+  color: $mrbluesky;
+}
+
+.SectionHeading {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+}
+
+.SectionHeading:before,
+.SectionHeading:after {
+  background-color: $hellosunshine;
+  content: '\a0';
+  flex-grow: 1;
+  height: 2px;
+  position: relative;
+  top: 6px;
+}
+
+.SectionHeading:before {
+  margin-right: $base-size / 2;
+  max-width: $base-size;
+}
+
+.SectionHeading:after {
+  margin-left: $base-size / 2;
+  max-width: $base-size;
+}

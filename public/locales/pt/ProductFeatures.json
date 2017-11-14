@@ -1,0 +1,44 @@
+{
+  "section_heading": "Why use doopoll?",
+  "introduction": "Everything you need, nothing you don't",
+  "simple": {
+    "heading": "Simple, powerful, polls",
+    "description": "Create, share, and manage polls easily"
+  },
+  "anonymous" :{
+    "heading": "Anonymous answering",
+    "description": "Enable your respondents to answer honestly"
+  },
+  "responses" :{
+    "heading": "Get more responses",
+    "description": "Get higher response rates, engage more people"
+  },
+  "mobile" :{
+    "heading": "Made for mobile (and humans)",
+    "description": "Quick and easy to use on small screens"
+  },
+  "real_time" :{
+    "heading": "Results in real time",
+    "description": "React to responses without delay"
+  },
+  "collaborate" :{
+    "heading": "Collaborate with your team",
+    "description": "Work on polls together, and share results"
+  },
+  "themes" :{
+    "heading": "Use your branding",
+    "description": "Add your logo and colours"
+  },
+  "draft" :{
+    "heading": "Draft your questions",
+    "description": "Great for live event uses"
+  },
+  "email_capture" :{
+    "heading": "Build your mailing list",
+    "description": "Collect e-mails to follow up"
+  },
+  "comments" :{
+    "heading": "Open text comments",
+    "description": "Get context to respondents' answers"
+  }
+}

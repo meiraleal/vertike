@@ -1,0 +1,35 @@
+.SignUp {
+  background-color: $mrbluesky-25;
+  margin-top: $base-size * 12;
+  padding: $base-size;
+}
+
+.SignUp__inner {
+  max-width: 800px;
+  margin: -$base-size * 10 auto 0;
+  text-align: center;
+  background-color: $mrbluesky-5;
+  border-radius: $base-size / 4;
+
+  h2, h3 {
+    margin: $base-size auto $base-size / 2;
+  }
+
+  p {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+.SignUp__free-trial {
+  padding: $base-size;
+}
+
+.SignUp__enterprise {
+  border-top: 1px solid $mrbluesky-25;
+  padding: $base-size;
+
+  h3, p {
+    max-width: 400px;
+  }
+}

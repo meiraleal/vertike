@@ -1,0 +1,24 @@
+.Guidelines__color-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.GuidelinesColorBlock {
+  width: 100%;
+  margin: $base-size / 4;
+
+  @media (min-width: $screen-xs ) {
+    width: 50%;
+    margin: $base-size / 4 auto;
+  }
+
+  @media (min-width: $screen-sm ) {
+    flex: 1;
+    margin: $base-size / 2;
+  }
+}
+
+.GuidelinesColorBlock__swatch {
+  height: 100px;
+  width: 100%;
+}

@@ -1,0 +1,173 @@
+---
+title: "Terms of Service"
+lastUpdated: "10.10.2017"
+---
+
+##### Summary of your key rights if you are a consumer
+*If you are a consumer, the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 state that in most cases you can cancel your contract with us within 14 days. If you ask us to provide services to you within this time, you may be charged for what you have used. You also have rights under the Consumer Rights Act 2015, for example we must provide services to you with reasonable care and skill. We must provide you with services that comply with your legal rights. This is just a summary of some of your key rights, for detailed information from Citizens Advice please visit www.citizensadvice.org.uk or call 03454 04 05 06. The information in this summary is not intended to replace the terms below which you should read carefully.*
+
+### Who we are
+This service is operated by Doopoll Ltd ("we", "us" or "our"). We are a company registered in England and Wales under company number 09676956 and have our registered office at Henstaff Court, Llantrisant Road, Groesfaen, Wales, CF72 8NG. References to us in these terms also includes our group companies from time to time.
+
+You can contact us by emailing [support@doopoll.co](mailto:support@doopoll.co). or calling 029 2252 0011, or by writing to us at doopoll, Henstaff Court, Llantrisant Road, Groesfaen, Wales, CF72 8NG.
+
+### These terms and conditions
+These terms and conditions, together with any documents referred to in them (including our Website Terms of Use at http://doopoll.co/legals/terms-of-use and our Privacy and Cookie Policy at http://doopoll.co/legals/privacy-policy), are referred to together as our "T&Cs". Our T&Cs explain how you may use our "Site" (which includes this website, all associated web pages and any associated mobile applications or other software applications) and the services we offer through the Site (our "Services"). Our T&Cs also set out the legal rights and responsibilities that apply to us and to you, and certain key information required by law.
+
+If you buy Services from us you agree to be legally bound by our T&Cs so it is your responsibility to familiarise yourself with them. If you have any questions about our T&Cs please let us know by sending an email to [support@doopoll.co](mailto:support@doopoll.co).
+
+We reserve the right to change our T&Cs from time to time in accordance with the "Changes to our T&Cs" section below.
+
+### Our services, Applications and Documentation
+The services we offer, together with the prices for these, are set out on the Site. The Services may change from time to time so please check the above link to make sure you are aware of the Services we offer.
+
+We may make certain software or applications (together our "Applications") available to you as part of the Service. Where relevant, we may also provide documents or other information in whatever media, including electronically, (the "Documentation") to accompany the Services or Applications and help you get proper use out of them.
+
+We shall ensure that the Services and any Applications or Documentation are provided with the degree of skill, care, prudence, efficiency, foresight and timeliness as would be reasonably expected of somebody in our position providing services similar to the Services.
+
+Subject to your compliance with our T&Cs, we grant to you a non-transferable, non-exclusive licence to use the Site, together with applicable Applications and Documentation, to the extent necessary for you to receive the benefit of the Services in accordance with these T&Cs.
+
+You are responsible for making all arrangements necessary for you to have access to the Services, including checking the compatibility of the Site and any Applications with the hardware and software you are using to access them.
+
+We will try to keep disruptions to a minimum but we may suspend the Site or the Services from time to time to carry out maintenance and support work, and to investigate any unauthorised use in accordance with these T&Cs.
+
+### Provision of Services and cancellation / termination by you
+Subject to your cancellation rights (for which see clause 9 below), we provide our Services on a subscription basis. The relevant subscription periods are set out on the Site and may be rolling contracts (i.e. contracts which automatically renew each month) or fixed-term contracts.
+
+When we agree to provide Services to you we will do so for the applicable subscription period, subject to the following:
+- you may cancel the Services within the 14-day cancellation period by using the "close my account" option on your Account page, at which point your access to the Services will cease. If so, "Your right to cancel" section below will apply;
+- you may cancel the Services at any time after the end of the 14-day cancellation period by using the "close my account" option on your Account page. This will send us a cancellation request. We will review this request and confirm cancellation to you, or request further details from you if relevant. If you use the "close my account" option your access to the Services will cease and no further fees will be billed from you unless we confirm otherwise in writing (including email). No refund will be made of any subscription fees already paid by you unless we agree otherwise in writing (including email);
+- you may terminate your contract for Services with us under "Events beyond our control" and "Disputes" sections below; and
+- you may terminate your contract for Services with us immediately at any time by giving us notice in writing if we commit a severe breach of any of our obligations under these T&Cs and, if that breach is capable of remedy, we have failed to remedy that breach within 10 days after receiving written notice from you requiring us to remedy that breach.
+
+If you have ordered Services under a rolling contract we will continue to provide Services to you for the applicable subscription period until you terminate your contract with us under the "Provision of Services and cancellation/termination by you" section.
+
+If you have ordered Services under a fixed-term contract then your contract with us will automatically end at the end of the applicable subscription period and we will stop providing the Services to you at that time. We will contact you before the end of the applicable subscription period to notify you that your contract with us will shortly end. If you wish to renew a fixed-term contract you should let us know before the end of the applicable subscription period so we can process your renewal and avoid gaps in service provision.
+
+If this contract ends or is terminated this will not affect our right to receive any money which you owe to us under this contract.
+
+### Ordering Services from us
+You can order Services from us through an account on the Site (an "Account"). You will be asked to confirm that you accept our T&Cs when you request Services from us.
+
+If we agree to provide you with the requested Services we will confirm this to you, either through the Site or by email. At this point a legally binding contract will be in place between you and us. It is therefore your responsibility to make sure that the details you submit to us are correct.
+
+We reserve the right, at our discretion, not to provide Services to you. This may be due to technical constraints, because you or your business has been banned by us from using the Site or our Services, or for any other reason. If we do not agree to provide Services to you then no legally binding contract will exist between us, we will not be obliged to provide Services to you and you will not be obliged to pay us.
+
+If there were any mistakes in the information you provided to us these can be corrected by accessing your Account and using the edit functions. If you have difficulty correcting your information please get in touch with us by sending an email to [support@doopoll.co](mailto:support@doopoll.co).
+
+If you apply for an Account on behalf of somebody else, including companies or other individual persons (in each case the "Account Holder"), you must be authorised to do so. This means you must have permission to enter into a contract with us on behalf of the Account Holder since the contract will be legally binding on them.
+
+### Fees and payment
+The fees for our Services are charged and payable in advance according to your applicable subscription plan. The amount of our subscription fees and the ways you can pay these are set out on our Site. It is your responsibility to ensure that you have provided us with complete and accurate billing information for paying the subscription fees.
+
+Our fees are in pounds sterling (£)(GBP) and are inclusive of VAT, sales or other taxes that may apply from time to time.
+
+You will be charged once a legally binding contract comes into existence between us (see "Ordering Services from us" section above).
+
+The level of our fees may vary from time to time. Please visit the Site to check the rates currently applicable. Changes to your Account could also result in changes to the amount of fees that you need to pay. Any changes will take effect in the billing cycle for the next month.
+We will do all that we reasonably can to ensure that all of the information you give us when paying for Services is secure. However, in the absence of negligence on our part, we will not be legally responsible to you for any loss that you may suffer if a third party gains unauthorised access to any information that you give us.
+
+We shall be under no obligation to provide the Service to you if you fail to pay the subscription fees to us on time. If you fail to pay our fees then we will have the right to disable your Account and restrict your access to the Site and the Services. We will have no liability to you for any loss or damage arising as a result of any action we take under the "Fees and payment" clauses following your failure to pay our fees.
+
+### ‘Free trial’ periods
+We may offer ‘free trial’ periods from time to time. We will not charge for use of the Services during a ‘free trial’. However, unless we state otherwise in writing you are only entitled to benefit from one ‘free trial’. If you request more than one ‘free trial’ we will be entitled to charge you, and you will be liable to pay, subscription fees for all use of the Service that occurred after the end of the first ‘free trial’ period.
+
+At the end of a ‘free trial’ we will automatically renew your account to a full, paid subscription and charge you subscription fees at the then-current rates unless we have agreed otherwise in writing, or if you have closed your account.
+
+### Your right to cancel
+You have a statutory right to cancel your contract with us up to 14 calendar days after the start of it (i.e. the date we accept your application and start providing Services to you) without giving any reason. You can do so by using the "close my account" option on your Account page. If you do so you will be entitled to a full refund of any fees you have paid to us, except where we are allowed to keep such payments in accordance with these T&Cs (for example under the "Your right to cancel" section below). Refunds will be made without undue delay using the same means of payment as those used by you for the initial transaction.
+
+Your right to cancel and receive a refund in accordance with the clause above expires after 14 days. You may still close your account after this time but you will not be entitled to a refund.
+Under applicable law, we may not supply the Services to you until the 14–day cancellation period is over unless you have asked us to do so. You agree that if you access the Site and use the Services within the 14–day cancellation period you have duly authorised us, for the purposes of applicable law, to provide Services to you during this period. In this situation you still have a right to change your mind and cancel the contract during the 14–day cancellation period, however we will be entitled to charge you for the cost of Services provided up to the time you closed your Account. The amount we charge you will be in proportion to our then current monthly fee.
+
+### Termination by us
+We may terminate your contract for Services with us immediately at any time by giving you notice in writing (including email) if you commit a severe breach of any of your obligations under these T&Cs and, if that breach is capable of remedy, you have failed to remedy that breach within 14 days after receiving written notice (including by email) from us requiring you to remedy that breach.
+
+If you are a business, we may also terminate your contract for Services with us immediately if you are subject to an "Insolvency Event", meaning an event where you are unable to pay your debts (within the meaning of section 123 of the Insolvency Act 1986) or become insolvent or an order is made or a resolution passed for your administration, winding-up or dissolution (otherwise than for the purposes of a solvent amalgamation or reconstruction) or an administrative or other receiver, manager, liquidator, administrator, trustee or similar officer is appointed over all or any substantial part of your assets or you enter into or propose any composition or arrangement with your creditors generally or any analogous event occurs in any applicable jurisdiction.
+
+If we terminate your contract for Services with us under this clause 10 your right to access the Services, Applications and/or Documentation under these is T&Cs shall terminate immediately.
+
+### Your use of the Services
+You may use the Site, Services, Applications and Documentation (our "Assets") provided you do so in accordance with these T&Cs. However, unless we expressly agree otherwise in writing, you may not:
+- copy, cut and paste, email, reproduce, publish, distribute, redistribute, broadcast, transmit, modify, adapt, edit, abstract, create derivative works of, store, archive, publicly display or sell our Assets (or any part of them) or commercially exploit them in any other way that contravenes these T&Cs;
+- combine, merge or otherwise permit our Assets (or any part of them) to become incorporated in any other program, nor arrange or create derivative works based on them;
+- attempt to decompile (as defined in section 50B of the Copyright, Designs and Patents Act 1988) the underlying software (or any part of it) that is used to provide the Services and/or Applications, except and only to the extent that such restriction is prohibited pursuant to section 50B of the Copyright, Designs and Patents Act 1988; and
+- observe, study or test the functioning of the underlying software (or any part of it) that is used to provide the Services and/or Applications, except and only to the extent that such restriction is prohibited pursuant to section 50B of the Copyright, Designs and Patents Act 1988.
+
+You shall use due care and diligence to avoid introducing any software virus or other contaminant (including but not limited to any bugs, worms, logic bombs, trojan horses or any other self-propagating or other such program) into our Assets that may infect or cause damage to any of them, or which may otherwise disrupt the proper use of them by us or by our other customers.
+
+You warrant (i.e. legally promise) that you shall keep confidential and, unless stated otherwise in these T&Cs, not share with any third party any account login information including (but not limited to) any ‘PIN’, ‘ID’, username or password or any similar or related login information ("Login Details").
+
+If we allow you to provide access to our Assets to any other person under these T&Cs, you shall also ensure that such other person shall comply with the above clause and that any use or access by them: does not exceed your permitted use; is controlled and/or supervised by you; and otherwise complies with, and is subject to, these T&Cs.
+
+We reserve the right to monitor usage of our Assets for the purpose of (among others) ensuring compliance with our T&Cs. We may also instruct third parties to conduct such monitoring on our behalf. If any monitoring reveals that any Login Details have been wrongfully used or disclosed in breach of these T&Cs, we reserve the right, in our sole discretion and without delay, to disable your Account and restrict your access to our Assets.
+
+### Warranties
+If you are a consumer, you have rights under consumer protection laws (including but not limited to the Consumer Rights Act 2015). We must provide you with services that comply with your legal rights.
+
+Notwithstanding the clause above, you acknowledge and agree that: we are not and cannot be aware of the extent of any potential losses (of whatever nature) resulting from any failure by us to carry out our obligations under this T&Cs; your use of the Site is dependent on the reliability of the Internet and your use of your own computer system to access the Site; the Services and/or Applications have not been prepared to meet your individual requirements and that they cannot be tested in every operating environment so as to produce software which is error free or operates without interruption; and it is your responsibility to ensure the facilities and functions of the Services and/or Applications meet your requirements.
+
+We do not warrant or represent that the Site, Services, Applications and Documentation (or any of them) shall be uninterrupted or error free, entirely secure, virus free, or interoperable with third party software or equipment.
+
+Save to the extent that any exclusion is prohibited or restricted by law (including applicable consumer protection laws), no other representations, warranties or conditions, whether express or implied, beyond those set out in these T&Cs are given or assumed by us in respect of the Services, Applications and/or Documentation. Any such representations, warranties or conditions are hereby excluded. This does not affect your statutory rights.
+
+Any warranties we do give are subject to you using the Services and/or Applications in compliance with these T&Cs, and we shall not be liable under for, or required to remedy, any problem arising from any defect or error wholly caused by:
+- any use by you which is contrary to these T&Cs; or
+- any third party software or equipment used in connection with the Services and/or Applications.
+
+### Compliance with applicable law
+References in these T&Cs to "Applicable Law" mean any and all applicable laws, statutes, orders, rules, treaties, decree, regulations, directives, edicts, bye-laws, schemes, warrants, other instruments made under or to be made under any statute, any exercises of the royal prerogative and codes of conduct and regulatory rules or guidelines, whether local, national, international or otherwise existing from time to time, together with any other similar instrument having legal effect in the relevant circumstances.
+
+We shall provide the Services in accordance with Applicable Law to the extent that such Applicable Law is general in nature or which affects or relates to a supply of services that are the same or similar to the Services.
+
+You shall use the Services and/or Applications in accordance with Applicable Law to the extent that such Applicable Law is specific to you.
+
+### Events beyond our control
+Our carrying out of the services might be affected by events beyond our reasonable control, including (but not limited to) breakdown of systems or network access; strikes, lock-outs or other industrial disputes; or flood, fire, explosion, accident or natural disaster. If so, there might be a delay before we can start/restart the Services
+
+We will make reasonable efforts to limit the effect of any of these events and will do our best to keep you informed of the circumstances so we can restart the Services as soon as these events have been rectified.
+
+Notwithstanding the above clauses, we shall have no liability to you for any breach of these T&Cs caused by any event or circumstance beyond our reasonable control. However, if such an event or circumstance prevents us from providing the Services to you for a continuous period of more than thirty (30) days, you may cancel your contract by using the "close my account" option on your Account page.
+
+### Limits on our liability
+This section restricts the extent to which we are liable for any losses which may be suffered by you in connection with your use of the Site and the Services.
+
+Nothing in these terms of use excludes or limits our liability for death or personal injury arising from our negligence, or our fraud or fraudulent misrepresentation, or any other liability that cannot be lawfully excluded or limited.
+
+Subject to the clause above, and to the extent permitted by law, we exclude all conditions, warranties and/or representations, whether express or implied, which may apply to the Site.
+
+Subject to clauses above, we will not be liable to any user of the Site for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with: (a) use of, or inability to use, the Site; or (b) use of or reliance on any information displayed on the Site.
+
+Please note that in particular, we will not be liable for: loss of profits, sales, business, or revenue; business interruption; loss of anticipated savings; loss of business opportunity, goodwill or reputation; or any indirect or consequential loss or damage.
+
+### Changes to our T&Cs
+We reserve the right to change our T&Cs from time to time. This may happen for security, legal or regulatory reasons. If we change our T&Cs then the new or additional terms will be posted on our Site. We will also notify you of the changes by email. Any such changes will be effective from the start of your next applicable subscription period. You should therefore check this page regularly for any changes to these T&Cs. Your continued use of the Site and our Services will be deemed to constitute acceptance of all of the new terms. These T&Cs may not otherwise be changed without our written consent.
+
+If you object to any changes or additions to these T&Cs you may cancel your contract by using the "close my account" option on your Account page.
+
+### Disputes
+We will try to resolve any disputes with you quickly and efficiently.
+
+If you are unhappy with any aspect of our service to you, including the Services themselves, please contact us as soon as possible by sending an email to [support@doopoll.co](mailto:support@doopoll.co).
+
+If you and we cannot resolve a dispute using our internal complaint handling procedure, we will let you know that we cannot settle the dispute with you, and give you certain information required by law about the options available to you.
+
+### General legal terms
+Entire agreement – these T&Cs constitute the entire agreement between us and you in relation to the provision of Services and replace and extinguish all prior agreements or arrangements made between us, whether oral or written, in relation to the provision of Services.
+
+No partnership – nothing in this T&Cs shall (except as expressly provided) be deemed to constitute a partnership, or create a relationship of principal and agent between us for any purpose.
+
+Rights of Third parties – save as expressly set out herein, for the purposes of the Contracts (Rights of Third Parties) Act 1999, these T&Cs are not intended to and do not give any person who is not a party to them any right to enforce any of their provisions. However, this does not affect any rights or remedy of such a person that exists or is available apart from that Act.
+
+Severance – if any provision (or part of a provision) of these T&Cs is found by any court or administrative body of competent jurisdiction to be invalid, unenforceable or illegal, the other provisions shall remain in force. If any invalid, unenforceable or illegal provision would be valid, enforceable or legal if some part of it were deleted, the provision shall apply with whatever modification is necessary to give effect to the commercial intention of the parties.
+
+Waiver – a waiver of any right under these T&Cs is only effective if it is in writing, and it applies only to the party to whom the waiver is addressed and the circumstances for which it is given. No waiver shall be implied by taking or failing to take any other action.
+
+Legal rights – unless specifically provided otherwise, rights arising under these T&Cs are cumulative and do not exclude rights provided by law.
+
+Survival – provisions which by their terms or intent are to survive termination of these T&Cs will do so.
+
+### Governing law
+If you are a consumer, please note that these terms of use, their subject matter and formation, are governed by the law of England and Wales. You and we both agree to that the courts of England and Wales will have exclusive jurisdiction. However, if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
+
+If you are a business, these terms of use, their subject matter and formation (and any non-contractual disputes or claims) are governed by the law of England and Wales. We both agree to the exclusive jurisdiction of the courts of England and Wales.

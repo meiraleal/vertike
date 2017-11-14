@@ -1,0 +1,40 @@
+.CustomerLogos {
+  text-align: center;
+
+  h5 {
+    max-width: 400px;
+    margin: $base-size / 4 auto;
+  }
+}
+
+.CustomerLogos__grid {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: $base-size;
+
+  @media (min-width: $screen-sm ) {
+    flex-wrap: nowrap;
+  }
+}
+
+.CustomerLogos__logo {
+  width: 30%;
+  max-width: 200px;
+  margin: $base-size / 2 0;
+  padding: 0 $base-size / 2;
+
+  @media (min-width: $screen-xs ) {
+    padding: 0 $base-size;
+  }
+
+  @media (min-width: $screen-sm ) {
+    flex: 1 1 100px;
+    margin: $base-size / 2;
+    padding: 0;
+  }
+
+  img {
+    width: 100%;
+  }
+}

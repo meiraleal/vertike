@@ -1,0 +1,11 @@
+.ProductLanguages {
+  text-align: center;
+  background-color: $hellosunshine-25;
+  padding: $base-size * 3 $base-size;
+  background-image: url('../images/dot_arc.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  p { color: $mrbluesky; }
+}

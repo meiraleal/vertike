@@ -1,0 +1,14 @@
+{
+  "free_trial":{
+    "heading":"Dechrau eich treial am ddim",
+    "description":"Gallwch drio doopoll gyda chyfrif am ddim. Eisiau'r holl nodweddion? Uwchraddiwch unrhyw bryd o £33/mis.",
+    "email_label":"Cyfeiriad e-bost",
+    "email_placeholder":"Eich cyfeiriad e-bost",
+    "action":"Cychwyn arni"
+  },
+  "enterprise":{
+    "heading":"A oes gennych dros 250 o bobl yn eich sefydliad?",
+    "description":"Rydych chi'n gwsmer menter! Siaradwch â'n tîm gwerthiannau i weld beth allwn ni ei wneud i chi.",
+    "action":"Siarad â'n tîm gwerthiannau"
+  }
+}

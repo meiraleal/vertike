@@ -1,0 +1,14 @@
+{
+  "free_trial": {
+    "heading": "Start your free trial",
+    "description": "You can trial doopoll with a free account. Want all the features? Upgrade at any time from £33/mo.",
+    "email_label": "Email address",
+    "email_placeholder": "Your email address",
+    "action": "Get started"
+  },
+  "enterprise": {
+    "heading": "Do you have over 250 people in your organisation?",
+    "description": "You're an enterprise customer! Talk to our sales team to see what we can do for you.",
+    "action": "Talk to our sales team"
+  }
+}

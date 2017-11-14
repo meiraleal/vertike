@@ -1,0 +1,16 @@
+.PageHeader {
+  background-color: $mrbluesky-5;
+  padding: 0  0 $base-size * 3;
+
+  h5 {
+    margin: 0;
+  }
+
+  .Container {
+    padding: 0;
+
+    @media (min-width: $screen-sm ) {
+      padding: $base-size 0;
+    }
+  }
+}
