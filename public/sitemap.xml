@@ -13,8 +13,8 @@
 <url> <loc>http://www.vertike.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.vertike.com/portugues/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.vertike.com/pricing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://www.vertike.com/sign-up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.vertike.com/404.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://www.vertike.com/sign-up/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.vertike.com/jobs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://www.vertike.com/legals/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
