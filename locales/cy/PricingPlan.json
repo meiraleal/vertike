@@ -1,0 +1,44 @@
+{
+  "plus":{
+    "name":"Ychwanegol",
+    "response_limit":"Hyd at 250 ymateb fesul pôl",
+    "user_limit":"Cydweithio â 5 defnyddiwr",
+    "support":"Cymorth sgwrs gwe",
+    "price":"o £33/mis*",
+    "action_label":"Dechrau treial am ddim"
+  },
+  "super":{
+    "name":"Uwch",
+    "response_limit":"Hyd at 1000 ymateb fesul pôl",
+    "user_limit":"Cydweithio â 10 defnyddiwr",
+    "support":"Cymorth sgwrs gwe",
+    "includes":"Yn cynnwys popeth o'r pecyn Ychwanegol",
+    "price":"o £83/mis*",
+    "action_label":"Dechrau treial am ddim"
+  },
+  "enterprise":{
+    "name":"Menter",
+    "response_limit":"Terfynau ymateb personol",
+    "user_limit":"Terfynau defnyddwyr personol",
+    "support":"Blaenoriaeth gyda sgwrs gwe a chymorth e-bost",
+    "includes":"Yn cynnwys popeth o'r pecyn Uwch",
+    "price":"o £5000/flwyddyn",
+    "action_label":"Siarad â'n tîm gwerthiannau"
+  },
+  "features":{
+    "heading":"Nodweddion",
+    "comments":"Cael cyd-destun trwy sylwadau am ddim ar atebion",
+    "email_capture":"Adeiladu eich rhestr bostio ac ymrwymo mwy trwy gipio e-byst",
+    "basic_export":"Allforio sylfaenol i CSV",
+    "draft":"Drafftio cwestiynau, mynd yn fyw gydag un clic",
+    "duplicate":"Dyblygu polau a chwestiynau",
+    "images":"Ychwanegu delweddau at gwestiynau",
+    "themes":"Themâu pôl personol",
+    "close_poll":"Cau pôl",
+    "skipping":"Caniatáu sgipio cwestiwn",
+    "presenter":"Sgrin canlyniadau i'r cyflwynydd gydag awtochwarae",
+    "full_export":"Allforio llawn i CSV",
+    "multi_response":"Polau un ddyfais/aml-ymateb",
+    "invoice_billing":"Bilio anfonebau"
+  }
+}

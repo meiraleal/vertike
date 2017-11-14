@@ -1,0 +1,138 @@
+{
+  "assetsByChunkName": {
+    "path---legals": [
+      "path---legals-4c06d5f6c758db656b20.js",
+      "path---legals-4c06d5f6c758db656b20.js.map"
+    ],
+    "path---jobs": [
+      "path---jobs-4c06d5f6c758db656b20.js",
+      "path---jobs-4c06d5f6c758db656b20.js.map"
+    ],
+    "component---src-templates-legals-page-jsx": [
+      "component---src-templates-legals-page-jsx-5d53141b3908990bf13e.js",
+      "component---src-templates-legals-page-jsx-5d53141b3908990bf13e.js.map"
+    ],
+    "component---src-pages-pricing-jsx": [
+      "component---src-pages-pricing-jsx-5ca87b93e88434952bb7.js",
+      "component---src-pages-pricing-jsx-5ca87b93e88434952bb7.js.map"
+    ],
+    "path---jobs-react-developer-oct-2017": [
+      "path---jobs-react-developer-oct-2017-dfb585e4d61d69116b5c.js",
+      "path---jobs-react-developer-oct-2017-dfb585e4d61d69116b5c.js.map"
+    ],
+    "path---jobs-sales-executive-oct-2017": [
+      "path---jobs-sales-executive-oct-2017-06bd1cb4236d9e4ceaea.js",
+      "path---jobs-sales-executive-oct-2017-06bd1cb4236d9e4ceaea.js.map"
+    ],
+    "component---src-pages-contact-jsx": [
+      "component---src-pages-contact-jsx-f814c3701917d6837492.js",
+      "component---src-pages-contact-jsx-f814c3701917d6837492.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---jobs-javascript-developer-oct-2017": [
+      "path---jobs-javascript-developer-oct-2017-aa82bdb5f3b980873a71.js",
+      "path---jobs-javascript-developer-oct-2017-aa82bdb5f3b980873a71.js.map"
+    ],
+    "path---sign-up": [
+      "path---sign-up-a0e39f21c11f6a62c5ab.js",
+      "path---sign-up-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-jsx": [
+      "component---src-layouts-index-jsx-cb03f3cdf8590b52eaeb.js",
+      "component---src-layouts-index-jsx-cb03f3cdf8590b52eaeb.js.map"
+    ],
+    "path---brand-guidelines": [
+      "path---brand-guidelines-a0e39f21c11f6a62c5ab.js",
+      "path---brand-guidelines-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-portugues-jsx": [
+      "component---src-pages-portugues-jsx-32c4df3f518523182fa6.js",
+      "component---src-pages-portugues-jsx-32c4df3f518523182fa6.js.map"
+    ],
+    "component---src-templates-jobs-page-jsx": [
+      "component---src-templates-jobs-page-jsx-d65e28a38c0187588583.js",
+      "component---src-templates-jobs-page-jsx-d65e28a38c0187588583.js.map"
+    ],
+    "path---pricing": [
+      "path---pricing-a0e39f21c11f6a62c5ab.js",
+      "path---pricing-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---legals-terms-of-service": [
+      "path---legals-terms-of-service-aeb83fe0e4bc155aa49f.js",
+      "path---legals-terms-of-service-aeb83fe0e4bc155aa49f.js.map"
+    ],
+    "component---src-pages-book-demo-jsx": [
+      "component---src-pages-book-demo-jsx-c8c10129ac9a469a67b2.js",
+      "component---src-pages-book-demo-jsx-c8c10129ac9a469a67b2.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---portugues": [
+      "path---portugues-a0e39f21c11f6a62c5ab.js",
+      "path---portugues-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---legals-terms-of-use": [
+      "path---legals-terms-of-use-23d5a5fe6418d40d811a.js",
+      "path---legals-terms-of-use-23d5a5fe6418d40d811a.js.map"
+    ],
+    "component---src-pages-legals-index-jsx": [
+      "component---src-pages-legals-index-jsx-1818625956a5168645d7.js",
+      "component---src-pages-legals-index-jsx-1818625956a5168645d7.js.map"
+    ],
+    "component---src-pages-sign-up-jsx": [
+      "component---src-pages-sign-up-jsx-e2a14427eca2db9fddd3.js",
+      "component---src-pages-sign-up-jsx-e2a14427eca2db9fddd3.js.map"
+    ],
+    "commons": [
+      "commons-ed56fa7fe483ed0b9234.js",
+      "commons-ed56fa7fe483ed0b9234.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-jsx": [
+      "component---src-pages-404-jsx-98503a5afe3db4071186.js",
+      "component---src-pages-404-jsx-98503a5afe3db4071186.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-jsx": [
+      "component---src-pages-index-jsx-9121037c9a9cb76b7333.js",
+      "component---src-pages-index-jsx-9121037c9a9cb76b7333.js.map"
+    ],
+    "path---legals-privacy-policy": [
+      "path---legals-privacy-policy-1c0d0377cdc0a3175d96.js",
+      "path---legals-privacy-policy-1c0d0377cdc0a3175d96.js.map"
+    ],
+    "app": [
+      "app-efb574303992ef2da912.js",
+      "build-js-styles.css",
+      "app-efb574303992ef2da912.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-brand-guidelines-jsx": [
+      "component---src-pages-brand-guidelines-jsx-e954d0f7dbeece4ab735.js",
+      "component---src-pages-brand-guidelines-jsx-e954d0f7dbeece4ab735.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---book-demo": [
+      "path---book-demo-a0e39f21c11f6a62c5ab.js",
+      "path---book-demo-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-jobs-index-jsx": [
+      "component---src-pages-jobs-index-jsx-5754d24d06ac9f45723e.js",
+      "component---src-pages-jobs-index-jsx-5754d24d06ac9f45723e.js.map"
+    ]
+  }
+}

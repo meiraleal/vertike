@@ -1,0 +1,20 @@
+{
+  "company":{
+    "heading":"Cwmni",
+    "product":"Cynnyrch",
+    "jobs":"Ymuno â'n tîm",
+    "contact":"Cysylltu â ni"
+  },
+  "sales":{
+    "heading":"Gwerthiannau",
+    "pricing":"Prisio",
+    "demo":"Bwcio demo"
+  },
+  "support":{
+    "heading":"Angen help gyda doopoll",
+    "description":"Cymerwch olwg ar ein <a href=\"http://support.doopoll.co\">herthyglau cefnogi</a> neu <a href=\"mailto:support@doopoll.co\">cysylltwch â'n tîm cefnogi</a> Llun-Gwener 9-5pm (BST)"
+  },
+  "log_in":"Mewngofnodi",
+  "legals":"Telerau a Phreifatrwydd",
+  "copyright":"© doopoll ® 2017. Cwmni cofrestredig yng Nghymru a Lloegr 09676956"
+}

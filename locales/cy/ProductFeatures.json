@@ -1,0 +1,44 @@
+{
+  "section_heading":"Pam defnyddio doopoll?",
+  "introduction":"Popeth rydych chi ei angen, dim byd dydych chi ddim",
+  "simple":{
+    "heading":"Polau pwerus syml",
+    "description":"Creu, rhannu a rheoli polau yn hawdd"
+  },
+  "anonymous":{
+    "heading":"Ateb yn ddienw",
+    "description":"Galluogi eich ymatebwyr i ateb yn onest"
+  },
+  "responses":{
+    "heading":"Cael mwy o ymatebion",
+    "description":"Cael cyfraddau ymateb uwch, ennyn diddordeb mwy o bobl"
+  },
+  "mobile":{
+    "heading":"Ar gyfer ffonau symudol (a phobl)",
+    "description":"Cyflym a hawdd i'w defnyddio ar sgriniau bach"
+  },
+  "real_time":{
+    "heading":"Canlyniadau mewn amser real",
+    "description":"Ymateb i ymatebion heb oedi"
+  },
+  "collaborate":{
+    "heading":"Cydweithio â'ch tîm",
+    "description":"Gweithio ar bolau gyda'ch gilydd, a rhannu canlyniadau"
+  },
+  "themes":{
+    "heading":"Defnyddio eich brandio",
+    "description":"Ychwanegu eich logo a lliwiau"
+  },
+  "draft":{
+    "heading":"Drafftio eich cwestiynau",
+    "description":"Gwych ar gyfer digwyddiadau byw"
+  },
+  "email_capture":{
+    "heading":"Adeiladu eich rhestr bostio",
+    "description":"Casglu e-byst er mwyn dilyn i fyny"
+  },
+  "comments":{
+    "heading":"Sylwadau testun agored",
+    "description":"Cael cyd-destun i atebion ymatebwyr"
+  }
+}

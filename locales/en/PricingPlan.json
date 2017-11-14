@@ -1,0 +1,44 @@
+{
+  "plus": {
+    "name": "Plus",
+    "response_limit": "Up to 250 responses per poll",
+    "user_limit": "Collaborate with 5 users",
+    "support": "Web chat support",
+    "price": "from £33/mo*",
+    "action_label": "Start a free trial"
+  },
+  "super": {
+    "name": "Super",
+    "response_limit": "Up to 1000 responses per poll",
+    "user_limit": "Collaborate with 10 users",
+    "support": "Web chat support",
+    "includes": "Includes everything from Plus",
+    "price": "from £83/mo*",
+    "action_label": "Start a free trial"
+  },
+  "enterprise": {
+    "name": "Enterprise",
+    "response_limit": "Custom response limits",
+    "user_limit": "Custom user limits",
+    "support": "Priority web chat and email support",
+    "includes": "Includes everything from Super",
+    "price": "from £5000/yr",
+    "action_label": "Talk to our sales team"
+  },
+  "features": {
+    "heading": "Features",
+    "comments": "Get context with free text comments on answers",
+    "email_capture": "Build your mailing list and engage further with email capture",
+    "basic_export": "Basic export to CSV",
+    "draft": "Draft questions, go live with one click",
+    "duplicate": "Duplicate polls and questions",
+    "images": "Add images to questions",
+    "themes": "Custom poll themes",
+    "close_poll": "Close a poll",
+    "skipping": "Allow question skipping",
+    "presenter": "Presenter results screen with autoplay",
+    "full_export": "Full export to CSV",
+    "multi_response": "Single device / multi-response polls",
+    "invoice_billing": "Invoice billing"
+  }
+}
