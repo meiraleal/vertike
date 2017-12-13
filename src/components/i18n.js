@@ -8,8 +8,7 @@ i18n
   .use(LanguageDetector)
   .use(reactI18nextModule)
   .init({
-    fallbackLng: 'en',
-
+    fallbackLng: 'es',
     // have a common namespace used around the full app
     ns: ['translations'],
     defaultNS: 'translations',

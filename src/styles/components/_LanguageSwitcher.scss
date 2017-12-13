@@ -1,25 +1,23 @@
 .LanguageSwitcher {
-  display: flex;
-  color: $mrbluesky;
-  justify-content: flex-start;
-  align-items: center;
-  margin: $base-size * 2 0;
+    font-size: 12px;
+    display: flex;
+    color: $mrbluesky;
+    justify-content: flex-start;
+    align-items: center;
 
-  .Icon {
-    font-size: 20px;
-  }
+    .Icon {
+        font-size: 15px;
+    }
 }
 
 .LanguageSwitcher__button {
-  background-color: transparent;
-  border: none;
-  color: $mrbluesky;
-  font-family: $font-family-body;
-  margin-right: $base-size / 2;
-  cursor: pointer;
+    background-color: transparent;
+    border: none;
+    color: $mrbluesky;
+    font-family: $font-family-body;
+    cursor: pointer;
 }
 
 .LanguageSwitcher__button--selected {
-  font-weight: 700;
-  border-bottom: 1px solid $mrbluesky;
+    font-weight: 700;
 }

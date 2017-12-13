@@ -8,12 +8,12 @@ const getDefaultUrl = () => {
   } else if (getCurrentEnv() === 'staging') {
     return "http://localhost";
   }
-  return "http://chatbotdev.ai";
+  return "http://www.vertike.com";
 };
 
 const siteDefault = {
-  title: "chatbotdev.ai",
-  description: "We craft powerful, yet simple chatbots that people will actually enjoy interact with.",
+  title: "Vertike - Dream High",
+  description: "Vertike - Dream High.",
   url: getDefaultUrl(),
 };
 
