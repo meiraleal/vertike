@@ -1,7 +1,10 @@
 .HomeHeader {
     background-color: $mrbluesky-5;
-    /*background-image: url('../images/background.png');*/
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     position: relative;
+    min-height: 600px;
     overflow-x: hidden;
 }
 

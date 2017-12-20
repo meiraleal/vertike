@@ -1,0 +1,20 @@
+{
+  "company": {
+    "heading": "Company",
+    "product": "Product",
+    "jobs": "Join our team",
+    "contact": "Contact us"
+  },
+  "sales": {
+    "heading": "Sales",
+    "pricing": "Pricing",
+    "demo": "Book a demo"
+  },
+  "support": {
+    "heading": "Need help with doopoll",
+    "description": "Take a look at our <a href=\"http://support.doopoll.co\">support articles</a> or <a href=\"mailto:support@doopoll.co\">contact our support team</a> Monday-Friday 9-5pm (BST)"
+  },
+  "log_in": "Log in",
+  "legals": "Terms & Privacy",
+  "copyright": "© chatbotdev.ai ® 2017."
+}
