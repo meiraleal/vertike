@@ -1,20 +1,16 @@
 {
-  "section_heading": "Why contract chatbotdev.ai?",
-  "introduction": "Customized services, all platforms supported.",
+  "section_heading": "Por que VERTIKE?",
   "simple": {
-    "heading": "Simple, powerful Chatbots",
-    "description": "Events, billing, shopping, notifications"
+    "heading": "DESAFÍO",
   },
   "responses" :{
-    "heading": "Get more responses",
-    "description": "Get higher response rates, engage more people"
-  },
+    "heading": "INTEGRACIÓN",
+   },
   "real_time" :{
-    "heading": "Results in real time",
-    "description": "React to responses without delay"
+    "heading": "SUSTENTABILIDAD",
   },
   "themes" :{
-    "heading": "Use your branding",
-    "description": "Add your logo and colours"
+    "heading": "LIFESTYLE",
   }
-}
+}    
+
