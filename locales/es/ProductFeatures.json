@@ -1,16 +1,19 @@
 {
   "section_heading": "Por que VERTIKE?",
   "simple": {
-    "heading": "DESAFÍO",
+      "heading": "DESAFÍO",
+      "description": ""
   },
   "responses" :{
-    "heading": "INTEGRACIÓN",
+      "heading": "INTEGRACIÓN",
+      "description": ""
    },
   "real_time" :{
-    "heading": "SUSTENTABILIDAD",
+      "heading": "SUSTENTABILIDAD",
+      "description": ""
   },
-  "themes" :{
-    "heading": "LIFESTYLE",
+  "themes": {
+      "heading": "LIFESTYLE",
+      "description": ""
   }
-}    
-
+}

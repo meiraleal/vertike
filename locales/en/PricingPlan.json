@@ -24,21 +24,5 @@
     "includes": "Includes everything from Super",
     "price": "from £5000/yr",
     "action_label": "Talk to our sales team"
-  },
-  "features": {
-    "heading": "Features",
-    "comments": "Get context with free text comments on answers",
-    "email_capture": "Build your mailing list and engage further with email capture",
-    "basic_export": "Basic export to CSV",
-    "draft": "Draft questions, go live with one click",
-    "duplicate": "Duplicate polls and questions",
-    "images": "Add images to questions",
-    "themes": "Custom poll themes",
-    "close_poll": "Close a poll",
-    "skipping": "Allow question skipping",
-    "presenter": "Presenter results screen with autoplay",
-    "full_export": "Full export to CSV",
-    "multi_response": "Single device / multi-response polls",
-    "invoice_billing": "Invoice billing"
   }
 }
